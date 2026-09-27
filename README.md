@@ -35,7 +35,7 @@ I'm actively learning game engine architecture and graphics programming *through
 | | |
 |---|---|
 | **Editors/IDEs** | Visual Studio (Windows), CLion (Linux) |
-| **Build system** | CMake |
+| **Build system** | CMake and Premake|
 | **Language** | C++ |
 | **Graphics API** | OpenGL |
 
